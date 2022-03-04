@@ -3,7 +3,7 @@
 <title>Yadagiri!</title>
 </head>
 <body>
-	<h1>Krishnajiwadi shopping!</h1>
+	<h1>hyderabad shopping!</h1>
 	<h2>Pro Naveen </h2>
 	<h3>Nagar </h3>
 	<p>
